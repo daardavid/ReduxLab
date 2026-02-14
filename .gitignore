@@ -1,0 +1,89 @@
+WDIExcelJunio.pbix
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Test files
+test_*.py
+*_test.py
+tests/
+debug_*.py
+demo_*.py
+quick_test.py
+
+# Documentation (except main README)
+BIPLOT_*.md
+BUILD_*.md
+CORRECCIONES_*.md
+MEJORA_*.md
+build_distribution.md
+
+# Development files
+test-config.bat
+example_usage.py
+integration_script.py
+check_dependencies.py
+dependency_manager.py
+
+# Temporary files
+*.tmp
+*.temp
+guardado.json
+pca_gui.log
+datos_demo_*.xlsx
+
+# Data folders (keep structure but ignore large datasets)
+Programa Socioeconómicos/
+Fortun 500/
+"Proyectos save/"
+
+# Build y salidas (PyInstaller, instalador, portable)
+build/
+dist/
+Output/
+*.spec.bak
+*.manifest
+warn-*.txt
+warn-*.log
+
+# Documentación generada (Sphinx)
+docs/_build/
+
+# Tests y cobertura
+htmlcov/
+.coverage
+.pytest_cache/
+.mypy_cache/

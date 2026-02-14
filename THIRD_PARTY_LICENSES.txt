@@ -1,0 +1,58 @@
+Third-Party Licenses Summary (Generated for ReduxLab 2.1.0)
+=======================================================
+
+This project bundles the following third-party Python packages. Each package
+retains its own license. Full license texts are available in the respective
+project repositories (PyPI / GitHub). All listed licenses are permissive and
+compatible with commercial distribution.
+
+Core Dependencies
+-----------------
+Package: pandas (BSD 3-Clause)
+Summary: Powerful data structures for data analysis.
+
+Package: numpy (BSD 3-Clause / NumPy License)
+Summary: Fundamental package for numerical computation.
+
+Package: scikit-learn (BSD 3-Clause)
+Summary: Machine learning algorithms and utilities.
+
+Package: pca (MIT License)
+Summary: Advanced PCA utilities and visualization helpers.
+
+Package: matplotlib (PSF-based / Matplotlib License)
+Summary: 2D plotting library.
+
+Package: seaborn (BSD 3-Clause)
+Summary: Statistical data visualization.
+
+Package: adjustText (MIT License)
+Summary: Automated text label adjustment for plots.
+
+Package: openpyxl (MIT License)
+Summary: Read/write Excel 2010 xlsx/xlsm files.
+
+Package: xlrd (BSD 3-Clause)
+Summary: Read legacy Excel xls files.
+
+Package: PyYAML (MIT License)
+Summary: YAML parser and emitter.
+
+Package: psutil (BSD 3-Clause)
+Summary: Process and system utilities.
+
+Dev / Optional
+--------------
+pytest (MIT License)
+black (MIT License)
+flake8 (MIT License)
+sphinx (BSD 2-Clause)
+sphinx-rtd-theme (MIT License)
+
+Distribution Notice
+-------------------
+If you redistribute binaries, retain this summary alongside the main LICENSE.
+For full compliance, include the complete license texts if required by
+organizational policy. None of these licenses impose copyleft obligations.
+
+Generated: 2025-08-16

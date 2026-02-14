@@ -1,0 +1,123 @@
+{
+  "project_name": "PRUEBA 3",
+  "series_config": {
+    "data_file": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Programa Socioeconómicos/Indc WDI_V7.xlsx",
+    "selected_indicators": [
+      "GDP growth (annual %)",
+      "GDP per capita, PPP (constant 2",
+      "GDP per capita growth (annual %",
+      "Poverty headcount ratio at soci",
+      "Poverty headcount ratio at $6.8",
+      "Gov exp on educ % GDP",
+      "Compulsory education",
+      "School enroll terti total",
+      "School enroll, tertiy, fem",
+      "Researchers in R&D (per million",
+      "R&d expendi % GDP",
+      "Carbon intensity of GDP",
+      "Energy intensity PPP GDP"
+    ],
+    "selected_units": [
+      "HUN"
+    ],
+    "selected_years": [
+      2011
+    ],
+    "color_groups": {},
+    "group_labels": {},
+    "custom_titles": {
+      "biplot": "",
+      "legend": "Grupos de Países",
+      "footer": ""
+    },
+    "analysis_results": {},
+    "footer_note": ""
+  },
+  "cross_section_config": {
+    "data_file": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/FORTUNE_VF5.xlsx",
+    "selected_indicators": [
+      "Resultado_año_empleado",
+      "Ventas_empleado",
+      "Rotación_activos",
+      "Multiplicador_capital",
+      "Empleados",
+      "Utilidad_%_activos",
+      "Utilidad_%_ventas",
+      "Capital_accs._Millones ",
+      "Activos_Millones",
+      "Utilidad_%_cambio_año_anter",
+      "Utilidad_Millones",
+      "Ingreso_%_cambio_año_anteri",
+      "Ingresos_Millones",
+      "Valor_mercado_millones",
+      "Cambio_%_valor_mercado",
+      "ROE"
+    ],
+    "selected_units": [
+      "Aptiv 2014",
+      "Aptiv 2015",
+      "Aptiv 2020",
+      "BMW Group 2011",
+      "BMW Group 2012",
+      "BMW Group 2014",
+      "BMW Group 2015",
+      "BMW Group 2016",
+      "BMW Group 2018",
+      "BMW Group 2019",
+      "BMW Group 2022"
+    ],
+    "selected_years": [
+      2011
+    ],
+    "color_groups": {},
+    "group_labels": {},
+    "custom_titles": {
+      "biplot": "",
+      "legend": "Grupos de Países",
+      "footer": ""
+    },
+    "analysis_results": {},
+    "footer_note": ""
+  },
+  "panel_config": {
+    "data_file": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/FORTUNE_VF5.xlsx",
+    "selected_indicators": [
+      "Resultado_año_empleado",
+      "Ventas_empleado",
+      "Rotación_activos",
+      "Multiplicador_capital",
+      "Empleados",
+      "Utilidad_%_activos",
+      "Utilidad_%_ventas",
+      "Capital_accs._Millones ",
+      "Activos_Millones",
+      "Utilidad_%_cambio_año_anter",
+      "Utilidad_Millones",
+      "Ingreso_%_cambio_año_anteri",
+      "Ingresos_Millones",
+      "Valor_mercado_millones",
+      "Cambio_%_valor_mercado",
+      "ROE"
+    ],
+    "selected_units": [
+      "Aptiv 2021",
+      "BMW Group 2013",
+      "BMW Group 2016",
+      "BMW Group 2018",
+      "BMW Group 2020",
+      "BMW Group 2022"
+    ],
+    "selected_years": [
+      2011
+    ],
+    "color_groups": {},
+    "group_labels": {},
+    "custom_titles": {
+      "biplot": "",
+      "legend": "Grupos de Países",
+      "footer": ""
+    },
+    "analysis_results": {},
+    "footer_note": ""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "project_name": "ROE, 2020, 2021, 2022",
+  "data_file": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/FORTUNE_VF5.xlsx",
+  "selected_indicators": [
+    "Resultado_año_empleado",
+    "Ventas_empleado",
+    "Rotación_activos",
+    "Multiplicador_capital",
+    "Empleados",
+    "Utilidad_%_activos",
+    "Utilidad_%_ventas",
+    "Capital_accs._Millones ",
+    "Activos_Millones",
+    "Utilidad_%_cambio_año_anter",
+    "Utilidad_Millones",
+    "Ingreso_%_cambio_año_anteri",
+    "Ingresos_Millones",
+    "Valor_mercado_millones",
+    "Cambio_%_valor_mercado",
+    "ROE"
+  ],
+  "selected_units": [
+    "Honeywell International 2020",
+    "Honeywell International 2021",
+    "Honeywell International 2022",
+    "Qualcomm 2020",
+    "Qualcomm 2021",
+    "Qualcomm 2022",
+    "Texas Instruments 2020",
+    "Texas Instruments 2021",
+    "Texas Instruments 2022"
+  ],
+  "selected_years": [
+    2011
+  ],
+  "color_groups": {
+    "Honeywell International 2020": "#ff0000",
+    "Honeywell International 2021": "#ff0000",
+    "Honeywell International 2022": "#ff0000",
+    "Qualcomm 2020": "#00ff00",
+    "Qualcomm 2021": "#00ff00",
+    "Qualcomm 2022": "#00ff00",
+    "Texas Instruments 2020": "#004080",
+    "Texas Instruments 2021": "#004080",
+    "Texas Instruments 2022": "#004080"
+  },
+  "group_labels": {},
+  "custom_titles": {
+    "biplot": "",
+    "legend": "Grupos de Países",
+    "footer": ""
+  },
+  "analysis_results": {},
+  "footer_note": ""
+}

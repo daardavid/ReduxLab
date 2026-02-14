@@ -1,0 +1,39 @@
+# ReduxLab - Dependencias de producción (ejecución y build)
+# Instalar con: pip install -r requirements.txt
+
+# Análisis de datos y estadística
+pandas>=1.5.0
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-learn>=1.1.0
+
+# Visualización
+matplotlib>=3.5.0
+adjustText>=0.7.3
+seaborn>=0.11.0
+plotly>=5.0.0
+networkx>=2.8.0
+
+# Análisis de series de tiempo y correlación avanzada
+dtaidistance>=2.3.0
+python-louvain>=0.16
+
+# GUI
+ttkbootstrap>=1.10.0
+
+# Utilidades
+openpyxl>=3.0.9
+xlrd>=2.0.1
+
+# Multi-format data loading
+pyarrow>=10.0.0
+sqlalchemy>=2.0.0
+
+# Configuración y serialización
+PyYAML>=6.0
+
+# Monitoreo de sistema (opcional)
+psutil>=5.8.0
+
+# Seguridad y validación
+chardet>=5.0.0

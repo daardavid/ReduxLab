@@ -1,0 +1,26 @@
+data_processing:
+  default_imputation: interpolation
+  max_missing_ratio: 0.5
+  standardize_data: true
+debug_mode: false
+log_level: INFO
+pca:
+  default_n_components: null  # null significa usar todos los componentes posibles
+  min_variance_threshold: 0.95
+  random_state: 42
+performance:
+  chunk_size: 1000
+  enable_parallel_processing: true
+  max_cache_size: 128
+ui:
+  language: es
+  theme: light
+  window_size: 800x600
+visualization:
+  color_palette: Set1
+  default_dpi: 100
+  default_figsize:
+  - 12
+  - 8
+  font_family: Arial
+  font_size: 12

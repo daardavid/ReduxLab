@@ -1,0 +1,15 @@
+# ReduxLab - Dependencias de desarrollo y documentación (no incluir en el instalador)
+# Instalar con: pip install -r requirements-dev.txt
+
+-r requirements.txt
+
+# Testing
+pytest>=7.0.0
+
+# Formato y lint
+black>=22.0.0
+flake8>=4.0.0
+
+# Documentación
+sphinx>=4.0.0
+sphinx-rtd-theme>=1.0.0

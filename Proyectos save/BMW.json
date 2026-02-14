@@ -1,0 +1,48 @@
+{
+  "project_name": "BMW",
+  "data_file": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/Fortune_VersiónBMW.xlsx",
+  "selected_indicators": [
+    "Multiplicador de capital",
+    "ROE (Análisis Dupont)",
+    "Rotación de activos",
+    "Capital Contable en millon",
+    "Pasivo",
+    "EMPLEO",
+    "GANANCIAS_%CAPITAL0CONT",
+    "GANANCIAS_%ACTIVOS",
+    "GANANCIAS_%VTAS",
+    "ACCIONES_Millón",
+    "ACTIVOS_Millón",
+    "GANANCIA_CAMBIO%",
+    "GANANCIA_Millón",
+    "VENTAS_CAMBIO%",
+    "Ventas en millones"
+  ],
+  "selected_units": [
+    "BMW Group 2013",
+    "BMW Group 2014",
+    "BMW Group 2015",
+    "BMW Group 2016",
+    "BMW Group 2017",
+    "BMW Group 2018",
+    "BMW Group 2019",
+    "BMW Group 2020",
+    "BMW Group 2021",
+    "BMW Group 2022"
+  ],
+  "selected_years": [
+    2013
+  ],
+  "color_groups": {
+    "BMW Group 2013": "#ff0000",
+    "BMW Group 2014": "#ff0000",
+    "BMW Group 2015": "#ff0000",
+    "BMW Group 2016": "#690f96",
+    "BMW Group 2017": "#730e8c"
+  },
+  "group_labels": {},
+  "custom_titles": {
+    "biplot": "BMW 2013-2022"
+  },
+  "analysis_results": {}
+}

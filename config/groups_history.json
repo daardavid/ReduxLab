@@ -1,0 +1,2050 @@
+{
+  "history": [
+    {
+      "timestamp": "2025-10-14T13:19:50.156368",
+      "operation": "import_groups_csv",
+      "details": {
+        "filepath": "examples/sample_groups.csv",
+        "imported_count": 5,
+        "total_units": 33,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T13:32:37.179732",
+      "operation": "import_groups_csv",
+      "details": {
+        "filepath": "examples/sample_groups.csv",
+        "imported_count": 5,
+        "total_units": 33,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T13:32:42.955076",
+      "operation": "import_groups_csv",
+      "details": {
+        "filepath": "examples/sample_groups.csv",
+        "imported_count": 5,
+        "total_units": 33,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T13:33:03.606453",
+      "operation": "export_groups_csv",
+      "details": {
+        "filepath": "examples/exported_groups.csv",
+        "group_count": 5,
+        "unit_count": 33
+      }
+    },
+    {
+      "timestamp": "2025-10-14T13:33:22.514863",
+      "operation": "export_groups_excel",
+      "details": {
+        "filepath": "examples/exported_groups.xlsx",
+        "group_count": 5,
+        "unit_count": 33
+      }
+    },
+    {
+      "timestamp": "2025-10-14T13:34:57.586434",
+      "operation": "clear_all_groups",
+      "details": {
+        "cleared_count": 5,
+        "cleared_groups": [
+          "OEM",
+          "Autopartes_electronicas",
+          "Electronics_Suppliers",
+          "Semiconductores",
+          "Traditional_Autoparts"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-10-14T13:35:00.498017",
+      "operation": "import_groups_excel",
+      "details": {
+        "filepath": "examples/sample_groups.xlsx",
+        "sheet_name": "Group_Assignments",
+        "imported_count": 5,
+        "total_units": 33,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T13:48:05.925741",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "OEM",
+        "deleted_data": {
+          "name": "OEM",
+          "units": [
+            "Tesla",
+            "Ford Motor",
+            "General Motors",
+            "BMW Group",
+            "Volkswagen",
+            "Toyota Motor",
+            "Nissan Motor",
+            "Stellantis",
+            "BYD",
+            "Geely"
+          ],
+          "description": "Imported from Excel: sample_groups.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T13:35:00.492018",
+          "last_modified": "2025-10-14T13:35:00.492018",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T13:48:10.990141",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Autopartes_electronicas",
+        "deleted_data": {
+          "name": "Autopartes_electronicas",
+          "units": [
+            "Aptiv",
+            "Denso",
+            "Borgwarner",
+            "Continental",
+            "FORVIA / HELLA / FAURECIA",
+            "Flextronics",
+            "Amphenol"
+          ],
+          "description": "Imported from Excel: sample_groups.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T13:35:00.493018",
+          "last_modified": "2025-10-14T13:35:00.493018",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T13:48:13.699731",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Electronics_Suppliers",
+        "deleted_data": {
+          "name": "Electronics_Suppliers",
+          "units": [
+            "Huawei",
+            "Samsung Electronics",
+            "Baidu",
+            "Delta Electronics",
+            "Hon Hai",
+            "Hitachi"
+          ],
+          "description": "Imported from Excel: sample_groups.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T13:35:00.494018",
+          "last_modified": "2025-10-14T13:35:00.494018",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T13:48:16.097411",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Semiconductores",
+        "deleted_data": {
+          "name": "Semiconductores",
+          "units": [
+            "Qualcomm",
+            "NXP Semiconductors",
+            "Marvell Technology",
+            "Broadcom",
+            "MediaTek",
+            "Infineon Technologies"
+          ],
+          "description": "Imported from Excel: sample_groups.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T13:35:00.495017",
+          "last_modified": "2025-10-14T13:35:00.495017",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T13:48:18.197901",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Traditional_Autoparts",
+        "deleted_data": {
+          "name": "Traditional_Autoparts",
+          "units": [
+            "Brembo",
+            "Autoliv",
+            "American Axle & Manufacturing",
+            "CIE Automotive"
+          ],
+          "description": "Imported from Excel: sample_groups.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T13:35:00.496017",
+          "last_modified": "2025-10-14T13:35:00.496017",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T13:59:47.623129",
+      "operation": "import_groups_excel",
+      "details": {
+        "filepath": "examples/sample_groups.xlsx",
+        "sheet_name": "Group_Assignments",
+        "imported_count": 5,
+        "total_units": 33,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:19:17.411958",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "OEM",
+        "deleted_data": {
+          "name": "OEM",
+          "units": [
+            "Tesla",
+            "Ford Motor",
+            "General Motors",
+            "BMW Group",
+            "Volkswagen",
+            "Toyota Motor",
+            "Nissan Motor",
+            "Stellantis",
+            "BYD",
+            "Geely"
+          ],
+          "description": "Imported from Excel: sample_groups.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T13:59:47.621114",
+          "last_modified": "2025-10-14T13:59:47.621114",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:19:19.560676",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Autopartes_electronicas",
+        "deleted_data": {
+          "name": "Autopartes_electronicas",
+          "units": [
+            "Aptiv",
+            "Denso",
+            "Borgwarner",
+            "Continental",
+            "FORVIA / HELLA / FAURECIA",
+            "Flextronics",
+            "Amphenol"
+          ],
+          "description": "Imported from Excel: sample_groups.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T13:59:47.622129",
+          "last_modified": "2025-10-14T13:59:47.622129",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:19:21.791874",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Electronics_Suppliers",
+        "deleted_data": {
+          "name": "Electronics_Suppliers",
+          "units": [
+            "Huawei",
+            "Samsung Electronics",
+            "Baidu",
+            "Delta Electronics",
+            "Hon Hai",
+            "Hitachi"
+          ],
+          "description": "Imported from Excel: sample_groups.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T13:59:47.622129",
+          "last_modified": "2025-10-14T13:59:47.622129",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:19:23.154304",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Semiconductores",
+        "deleted_data": {
+          "name": "Semiconductores",
+          "units": [
+            "Qualcomm",
+            "NXP Semiconductors",
+            "Marvell Technology",
+            "Broadcom",
+            "MediaTek",
+            "Infineon Technologies"
+          ],
+          "description": "Imported from Excel: sample_groups.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T13:59:47.622129",
+          "last_modified": "2025-10-14T13:59:47.622129",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:19:24.435438",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Traditional_Autoparts",
+        "deleted_data": {
+          "name": "Traditional_Autoparts",
+          "units": [
+            "Brembo",
+            "Autoliv",
+            "American Axle & Manufacturing",
+            "CIE Automotive"
+          ],
+          "description": "Imported from Excel: sample_groups.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T13:59:47.622129",
+          "last_modified": "2025-10-14T13:59:47.622129",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:19:35.681823",
+      "operation": "import_groups_excel",
+      "details": {
+        "filepath": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/Grupos de empresas.xlsx",
+        "sheet_name": "Hoja1",
+        "imported_count": 5,
+        "total_units": 67,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:20:00.774903",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Autopartes electrónicas",
+        "deleted_data": {
+          "name": "Autopartes electrónicas",
+          "units": [
+            "Actia",
+            "Amphenol",
+            "Aptiv",
+            "Borgwarner",
+            "Denso",
+            "Flextronics",
+            "FORVIA / HELLA / FAURECIA",
+            "Lear Corporation",
+            "Magna International",
+            "OPmobility",
+            "Valeo",
+            "ZF"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T14:19:35.679824",
+          "last_modified": "2025-10-14T14:19:35.679824",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:20:02.326055",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "My/oS electrónicos",
+        "deleted_data": {
+          "name": "My/oS electrónicos",
+          "units": [
+            "Archermind",
+            "Baidu",
+            "CATL",
+            "Delta Electronics",
+            "Eaton",
+            "Fujikura",
+            "Hitachi",
+            "Hon Hai",
+            "Honeywell International",
+            "HUAWEI",
+            "Integer Holding",
+            "Johnson Controls",
+            "Kyocera",
+            "LG Electronics",
+            "Mitsubishi Electric",
+            "Panasonic Holdings",
+            "Pegatron",
+            "Quanta Computer",
+            "Robert Bosch",
+            "Samsung Electronics",
+            "Sanmina SCI Systems",
+            "Schneider Electric",
+            "Sensata Tech",
+            "Sony",
+            "Texas Instruments",
+            "Thales"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T14:19:35.679824",
+          "last_modified": "2025-10-14T14:19:35.679824",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:20:03.434109",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "OEM",
+        "deleted_data": {
+          "name": "OEM",
+          "units": [
+            "BMW Group",
+            "BYD",
+            "FAW",
+            "Ford Motor",
+            "Geely",
+            "General Motors",
+            "Kia",
+            "Mahindra & Mahindra",
+            "Nissan Motor",
+            "RENAULT",
+            "SAIC",
+            "Stellantis",
+            "Tesla",
+            "Toyota Motor",
+            "Vinfast",
+            "Volkswagen",
+            "Volvo",
+            "XIAOMI"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T14:19:35.679824",
+          "last_modified": "2025-10-14T14:19:35.679824",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:20:04.591587",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Autopartes",
+        "deleted_data": {
+          "name": "Autopartes",
+          "units": [
+            "American Axle & Manufacturing",
+            "Autoliv",
+            "Brembo",
+            "CIE Automotive",
+            "Continental"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T14:19:35.679824",
+          "last_modified": "2025-10-14T14:19:35.679824",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:20:06.046889",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Semiconductores",
+        "deleted_data": {
+          "name": "Semiconductores",
+          "units": [
+            "NXP Semiconductors",
+            "ONSEMI",
+            "Qualcomm",
+            "Renesas",
+            "STMicroelectronics",
+            "Vishay"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T14:19:35.680823",
+          "last_modified": "2025-10-14T14:19:35.680823",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:28:25.819278",
+      "operation": "import_groups_excel",
+      "details": {
+        "filepath": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/Grupos de empresas.xlsx",
+        "sheet_name": "Hoja1",
+        "imported_count": 5,
+        "total_units": 66,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:29:23.463836",
+      "operation": "edit_group",
+      "details": {
+        "group_name": "Autopartes electrónicas",
+        "changes": {
+          "units": {
+            "old": [
+              "Actia",
+              "Amphenol",
+              "Aptiv",
+              "Borgwarner",
+              "Denso",
+              "Flextronics",
+              "Lear Corporation",
+              "Magna International",
+              "OPmobility",
+              "Valeo",
+              "ZF"
+            ],
+            "new": [
+              "No units available. Load data first."
+            ]
+          },
+          "description": {
+            "old": "Imported from Excel: Grupos de empresas.xlsx",
+            "new": "Imported from Excel: Grupos de empresas.xlsx"
+          },
+          "color": {
+            "old": "#FF6B6B",
+            "new": "#80ff80"
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:29:34.116722",
+      "operation": "clear_all_groups",
+      "details": {
+        "cleared_count": 5,
+        "cleared_groups": [
+          "Autopartes electrónicas",
+          "Autopartes",
+          "My/oS electrónicos",
+          "OEM",
+          "Semiconductores"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:29:40.928742",
+      "operation": "import_groups_excel",
+      "details": {
+        "filepath": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/Grupos de empresas.xlsx",
+        "sheet_name": "Hoja1",
+        "imported_count": 5,
+        "total_units": 66,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:46:27.012451",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Autopartes electrónicas",
+        "deleted_data": {
+          "name": "Autopartes electrónicas",
+          "units": [
+            "Actia",
+            "Amphenol",
+            "Aptiv",
+            "Borgwarner",
+            "Denso",
+            "Flextronics",
+            "Lear Corporation",
+            "Magna International",
+            "OPmobility",
+            "Valeo",
+            "ZF"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T14:29:40.926541",
+          "last_modified": "2025-10-14T14:29:40.926541",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:46:28.036689",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Autopartes",
+        "deleted_data": {
+          "name": "Autopartes",
+          "units": [
+            "American Axle & Manufacturing",
+            "Autoliv",
+            "Brembo",
+            "CIE Automotive",
+            "Continental"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T14:29:40.926541",
+          "last_modified": "2025-10-14T14:29:40.926541",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:46:29.415835",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "My/oS electrónicos",
+        "deleted_data": {
+          "name": "My/oS electrónicos",
+          "units": [
+            "Archermind",
+            "Baidu",
+            "CATL",
+            "Delta Electronics",
+            "Eaton",
+            "Fujikura",
+            "Hitachi",
+            "Hon Hai",
+            "Honeywell International",
+            "HUAWEI",
+            "Integer Holding",
+            "Johnson Controls",
+            "Kyocera",
+            "LG Electronics",
+            "Mitsubishi Electric",
+            "Panasonic Holdings",
+            "Pegatron",
+            "Quanta Computer",
+            "Robert Bosch",
+            "Samsung Electronics",
+            "Sanmina SCI Systems",
+            "Schneider Electric",
+            "Sensata Tech",
+            "Sony",
+            "Texas Instruments",
+            "Thales"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T14:29:40.926541",
+          "last_modified": "2025-10-14T14:29:40.926541",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:46:30.418872",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "OEM",
+        "deleted_data": {
+          "name": "OEM",
+          "units": [
+            "BMW Group",
+            "BYD",
+            "FAW",
+            "Ford Motor",
+            "Geely",
+            "General Motors",
+            "Kia",
+            "Mahindra & Mahindra",
+            "Nissan Motor",
+            "RENAULT",
+            "SAIC",
+            "Stellantis",
+            "Tesla",
+            "Toyota Motor",
+            "Vinfast",
+            "Volkswagen",
+            "Volvo",
+            "XIAOMI"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T14:29:40.926541",
+          "last_modified": "2025-10-14T14:29:40.926541",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:46:31.490265",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Semiconductores",
+        "deleted_data": {
+          "name": "Semiconductores",
+          "units": [
+            "NXP Semiconductors",
+            "ONSEMI",
+            "Qualcomm",
+            "Renesas",
+            "STMicroelectronics",
+            "Vishay"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T14:29:40.927542",
+          "last_modified": "2025-10-14T14:29:40.927542",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:46:37.595457",
+      "operation": "import_groups_excel",
+      "details": {
+        "filepath": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/Grupos de empresas.xlsx",
+        "sheet_name": "Hoja1",
+        "imported_count": 5,
+        "total_units": 66,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:50:46.885044",
+      "operation": "clear_all_groups",
+      "details": {
+        "cleared_count": 5,
+        "cleared_groups": [
+          "Autopartes electrónicas",
+          "Autopartes",
+          "My/oS electrónicos",
+          "OEM",
+          "Semiconductores"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:50:47.715011",
+      "operation": "import_groups_csv",
+      "details": {
+        "filepath": "examples/sample_groups.csv",
+        "imported_count": 5,
+        "total_units": 33,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:51:00.975251",
+      "operation": "clear_all_groups",
+      "details": {
+        "cleared_count": 5,
+        "cleared_groups": [
+          "OEM",
+          "Autopartes_electronicas",
+          "Electronics_Suppliers",
+          "Semiconductores",
+          "Traditional_Autoparts"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:51:02.936290",
+      "operation": "import_groups_excel",
+      "details": {
+        "filepath": "examples/sample_groups.xlsx",
+        "sheet_name": "Group_Assignments",
+        "imported_count": 5,
+        "total_units": 33,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:53:11.617557",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Test_Group",
+        "unit_count": 2,
+        "description": "Test description",
+        "color": "#FF0000"
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:53:11.622361",
+      "operation": "edit_group",
+      "details": {
+        "group_name": "Test_Group",
+        "changes": {
+          "color": {
+            "old": "#FF0000",
+            "new": "#00FF00"
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T14:53:11.626338",
+      "operation": "edit_group",
+      "details": {
+        "group_name": "Renamed_Group",
+        "changes": {
+          "name": {
+            "old": "Test_Group",
+            "new": "Renamed_Group"
+          },
+          "color": {
+            "old": "#00FF00",
+            "new": "#0000FF"
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T15:02:00.959822",
+      "operation": "clear_all_groups",
+      "details": {
+        "cleared_count": 6,
+        "cleared_groups": [
+          "OEM",
+          "Autopartes_electronicas",
+          "Electronics_Suppliers",
+          "Semiconductores",
+          "Traditional_Autoparts",
+          "Renamed_Group"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-10-14T15:02:06.554814",
+      "operation": "import_groups_excel",
+      "details": {
+        "filepath": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/Grupos de empresas.xlsx",
+        "sheet_name": "Hoja1",
+        "imported_count": 5,
+        "total_units": 66,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T21:43:23.576678",
+      "operation": "clear_all_groups",
+      "details": {
+        "cleared_count": 5,
+        "cleared_groups": [
+          "Autopartes electrónicas",
+          "Autopartes",
+          "My/oS electrónicos",
+          "OEM",
+          "Semiconductores"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-10-14T21:43:24.457028",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Test_Group_1",
+        "unit_count": 3,
+        "description": "Test group 1",
+        "color": "#FF0000"
+      }
+    },
+    {
+      "timestamp": "2025-10-14T21:43:24.459028",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Test_Group_2",
+        "unit_count": 2,
+        "description": "Test group 2",
+        "color": "#00FF00"
+      }
+    },
+    {
+      "timestamp": "2025-10-14T21:43:53.914405",
+      "operation": "clear_all_groups",
+      "details": {
+        "cleared_count": 2,
+        "cleared_groups": [
+          "Test_Group_1",
+          "Test_Group_2"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-10-14T21:43:54.853476",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Test_Group_1",
+        "unit_count": 3,
+        "description": "Test group 1",
+        "color": "#FF0000"
+      }
+    },
+    {
+      "timestamp": "2025-10-14T21:43:54.855470",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Test_Group_2",
+        "unit_count": 2,
+        "description": "Test group 2",
+        "color": "#00FF00"
+      }
+    },
+    {
+      "timestamp": "2025-10-14T21:47:47.494860",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Test_Group_1",
+        "deleted_data": {
+          "name": "Test_Group_1",
+          "units": [
+            "Unit2",
+            "Unit1",
+            "Unit3"
+          ],
+          "description": "Test group 1",
+          "color": "#FF0000",
+          "created": "2025-10-14T21:43:54.853476",
+          "last_modified": "2025-10-14T21:43:54.853476",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T21:47:53.478232",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Test_Group_2",
+        "deleted_data": {
+          "name": "Test_Group_2",
+          "units": [
+            "Unit4",
+            "Unit5"
+          ],
+          "description": "Test group 2",
+          "color": "#00FF00",
+          "created": "2025-10-14T21:43:54.855470",
+          "last_modified": "2025-10-14T21:43:54.855470",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T21:48:04.856165",
+      "operation": "import_groups_excel",
+      "details": {
+        "filepath": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/Grupos de empresas.xlsx",
+        "sheet_name": "Hoja1",
+        "imported_count": 5,
+        "total_units": 66,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T21:56:26.530355",
+      "operation": "clear_all_groups",
+      "details": {
+        "cleared_count": 5,
+        "cleared_groups": [
+          "Autopartes electrónicas",
+          "Autopartes",
+          "My/oS electrónicos",
+          "OEM",
+          "Semiconductores"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-10-14T21:56:27.247060",
+      "operation": "import_groups_csv",
+      "details": {
+        "filepath": "examples/sample_groups.csv",
+        "imported_count": 5,
+        "total_units": 33,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:06:48.459352",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "OEM",
+        "deleted_data": {
+          "name": "OEM",
+          "units": [
+            "Tesla",
+            "Ford Motor",
+            "General Motors",
+            "BMW Group",
+            "Volkswagen",
+            "Toyota Motor",
+            "Nissan Motor",
+            "Stellantis",
+            "BYD",
+            "Geely"
+          ],
+          "description": "Imported from CSV: sample_groups.csv",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T21:56:27.245527",
+          "last_modified": "2025-10-14T21:56:27.245527",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:06:51.359719",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Autopartes_electronicas",
+        "deleted_data": {
+          "name": "Autopartes_electronicas",
+          "units": [
+            "Aptiv",
+            "Denso",
+            "Borgwarner",
+            "Continental",
+            "FORVIA / HELLA / FAURECIA",
+            "Flextronics",
+            "Amphenol"
+          ],
+          "description": "Imported from CSV: sample_groups.csv",
+          "color": "#4ECDC4",
+          "created": "2025-10-14T21:56:27.246523",
+          "last_modified": "2025-10-14T21:56:27.246523",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:06:54.226242",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Semiconductores",
+        "deleted_data": {
+          "name": "Semiconductores",
+          "units": [
+            "Qualcomm",
+            "NXP Semiconductors",
+            "Marvell Technology",
+            "Broadcom",
+            "MediaTek",
+            "Infineon Technologies"
+          ],
+          "description": "Imported from CSV: sample_groups.csv",
+          "color": "#96CEB4",
+          "created": "2025-10-14T21:56:27.246523",
+          "last_modified": "2025-10-14T21:56:27.246523",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:06:55.884376",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Electronics_Suppliers",
+        "deleted_data": {
+          "name": "Electronics_Suppliers",
+          "units": [
+            "Huawei",
+            "Samsung Electronics",
+            "Baidu",
+            "Delta Electronics",
+            "Hon Hai",
+            "Hitachi"
+          ],
+          "description": "Imported from CSV: sample_groups.csv",
+          "color": "#45B7D1",
+          "created": "2025-10-14T21:56:27.246523",
+          "last_modified": "2025-10-14T21:56:27.246523",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:06:57.022747",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Traditional_Autoparts",
+        "deleted_data": {
+          "name": "Traditional_Autoparts",
+          "units": [
+            "Brembo",
+            "Autoliv",
+            "American Axle & Manufacturing",
+            "CIE Automotive"
+          ],
+          "description": "Imported from CSV: sample_groups.csv",
+          "color": "#FECA57",
+          "created": "2025-10-14T21:56:27.247060",
+          "last_modified": "2025-10-14T21:56:27.247060",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:07:13.154194",
+      "operation": "import_groups_excel",
+      "details": {
+        "filepath": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/Grupos de empresas.xlsx",
+        "sheet_name": "Hoja1",
+        "imported_count": 5,
+        "total_units": 66,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:23.958400",
+      "operation": "clear_all_groups",
+      "details": {
+        "cleared_count": 5,
+        "cleared_groups": [
+          "Autopartes electrónicas",
+          "Autopartes",
+          "My/oS electrónicos",
+          "OEM",
+          "Semiconductores"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:25.404509",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Group_1",
+        "unit_count": 13,
+        "description": "Test group 1",
+        "color": "#FF6B6B"
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:25.408038",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Group_2",
+        "unit_count": 13,
+        "description": "Test group 2",
+        "color": "#4ECDC4"
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:25.408038",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Group_3",
+        "unit_count": 13,
+        "description": "Test group 3",
+        "color": "#45B7D1"
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:25.414579",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Group_4",
+        "unit_count": 13,
+        "description": "Test group 4",
+        "color": "#96CEB4"
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:25.418773",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Group_5",
+        "unit_count": 14,
+        "description": "Test group 5",
+        "color": "#FECA57"
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:44:19.431517",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Group_2",
+        "deleted_data": {
+          "name": "Group_2",
+          "units": [
+            "Unit_15",
+            "Unit_26",
+            "Unit_22",
+            "Unit_21",
+            "Unit_24",
+            "Unit_19",
+            "Unit_17",
+            "Unit_16",
+            "Unit_25",
+            "Unit_14",
+            "Unit_23",
+            "Unit_18",
+            "Unit_20"
+          ],
+          "description": "Test group 2",
+          "color": "#4ECDC4",
+          "created": "2025-10-14T22:36:25.408038",
+          "last_modified": "2025-10-14T22:36:25.408038",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:44:21.855504",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Group_3",
+        "deleted_data": {
+          "name": "Group_3",
+          "units": [
+            "Unit_34",
+            "Unit_36",
+            "Unit_27",
+            "Unit_28",
+            "Unit_35",
+            "Unit_32",
+            "Unit_31",
+            "Unit_33",
+            "Unit_30",
+            "Unit_39",
+            "Unit_38",
+            "Unit_37",
+            "Unit_29"
+          ],
+          "description": "Test group 3",
+          "color": "#45B7D1",
+          "created": "2025-10-14T22:36:25.408038",
+          "last_modified": "2025-10-14T22:36:25.408038",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:44:25.539813",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Group_1",
+        "deleted_data": {
+          "name": "Group_1",
+          "units": [
+            "Unit_08",
+            "Unit_05",
+            "Unit_03",
+            "Unit_09",
+            "Unit_02",
+            "Unit_13",
+            "Unit_01",
+            "Unit_06",
+            "Unit_04",
+            "Unit_12",
+            "Unit_10",
+            "Unit_07",
+            "Unit_11"
+          ],
+          "description": "Test group 1",
+          "color": "#FF6B6B",
+          "created": "2025-10-14T22:36:25.404509",
+          "last_modified": "2025-10-14T22:36:25.404509",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:45:40.716870",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Group_4",
+        "deleted_data": {
+          "name": "Group_4",
+          "units": [
+            "Unit_45",
+            "Unit_52",
+            "Unit_40",
+            "Unit_47",
+            "Unit_48",
+            "Unit_44",
+            "Unit_50",
+            "Unit_43",
+            "Unit_41",
+            "Unit_46",
+            "Unit_49",
+            "Unit_51",
+            "Unit_42"
+          ],
+          "description": "Test group 4",
+          "color": "#96CEB4",
+          "created": "2025-10-14T22:36:25.414579",
+          "last_modified": "2025-10-14T22:36:25.414579",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:45:43.347340",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Group_5",
+        "deleted_data": {
+          "name": "Group_5",
+          "units": [
+            "Unit_66",
+            "Unit_55",
+            "Unit_53",
+            "Unit_59",
+            "Unit_54",
+            "Unit_58",
+            "Unit_57",
+            "Unit_61",
+            "Unit_65",
+            "Unit_63",
+            "Unit_60",
+            "Unit_64",
+            "Unit_56",
+            "Unit_62"
+          ],
+          "description": "Test group 5",
+          "color": "#FECA57",
+          "created": "2025-10-14T22:36:25.418773",
+          "last_modified": "2025-10-14T22:36:25.418773",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:45:51.900256",
+      "operation": "import_groups_excel",
+      "details": {
+        "filepath": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/CLUSTER DATOS CONSOLIDADOS TODOS 2.xlsx",
+        "sheet_name": "Activos_Millones_Promedio",
+        "imported_count": 67,
+        "total_units": 67,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:45:57.603012",
+      "operation": "clear_all_groups",
+      "details": {
+        "cleared_count": 67,
+        "cleared_groups": [
+          "519.703329",
+          "4761.675",
+          "9334.082333333334",
+          "13404.83333333333",
+          "137.8625",
+          "2230.011111111111",
+          "7360.616666666666",
+          "31702.08541666667",
+          "216254.0956930798",
+          "10280.325",
+          "2648.181155",
+          "26790.46507970793",
+          "28181.71469255079",
+          "4034.693664166668",
+          "40587.16315833333",
+          "8888.933333333332",
+          "49586.4118867284",
+          "31792.58333333333",
+          "4553.31240604465",
+          "13205.69041666667",
+          "232949.666825",
+          "5229.577777777778",
+          "43541.80849166666",
+          "205505.2501583333",
+          "101315.8313311728",
+          "97301.06842135417",
+          "53598.25015833334",
+          "84871.3891666665",
+          "2059.099166666666",
+          "40463.75",
+          "43283.07616408046",
+          "27201.35833333333",
+          "10708.05833333333",
+          "36493.616825",
+          "22733.08349166667",
+          "6590.749196978062",
+          "38663.62666666666",
+          "149090.6584916667",
+          "17262.0",
+          "6553.908333333333",
+          "6035.533333333334",
+          "58358.92268919752",
+          "16976.86666666667",
+          "44471.33333333334",
+          "21067.94583333334",
+          "99133.72916666667",
+          "12285.19166666667",
+          "89324.31583333334",
+          "97416.18333333333",
+          "256651.364825",
+          "3718.838833333333",
+          "50857.70416666667",
+          "6143.264833333334",
+          "183553.4372162571",
+          "126676.1758333333",
+          "11764.83333333333",
+          "27510.7185",
+          "19489.16666666667",
+          "29755.06491666667",
+          "458209.0594175925",
+          "14033.6133983816",
+          "5509.333333333333",
+          "3252.670916666666",
+          "483895.7297306047",
+          "52699.16731519608",
+          "30756.18148233333",
+          "29394.51333333334"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:46:02.638234",
+      "operation": "import_groups_excel",
+      "details": {
+        "filepath": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/Grupos de empresas.xlsx",
+        "sheet_name": "Hoja1",
+        "imported_count": 5,
+        "total_units": 66,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-11-05T15:29:24.351311",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Tech Giants",
+        "unit_count": 4,
+        "description": "Test group: Tech Giants",
+        "color": "#FF6B6B"
+      }
+    },
+    {
+      "timestamp": "2025-11-05T15:29:24.358531",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Auto Manufacturers",
+        "unit_count": 4,
+        "description": "Test group: Auto Manufacturers",
+        "color": "#4ECDC4"
+      }
+    },
+    {
+      "timestamp": "2025-11-05T15:29:24.365731",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Chinese Tech",
+        "unit_count": 4,
+        "description": "Test group: Chinese Tech",
+        "color": "#45B7D1"
+      }
+    },
+    {
+      "timestamp": "2025-11-05T15:30:22.884789",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Tech Giants",
+        "unit_count": 4,
+        "description": "Test group: Tech Giants",
+        "color": "#FF6B6B"
+      }
+    },
+    {
+      "timestamp": "2025-11-05T15:30:22.894313",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Auto Manufacturers",
+        "unit_count": 4,
+        "description": "Test group: Auto Manufacturers",
+        "color": "#4ECDC4"
+      }
+    },
+    {
+      "timestamp": "2025-11-05T15:30:22.905071",
+      "operation": "create_group",
+      "details": {
+        "group_name": "Chinese Tech",
+        "unit_count": 4,
+        "description": "Test group: Chinese Tech",
+        "color": "#45B7D1"
+      }
+    },
+    {
+      "timestamp": "2025-11-05T15:33:59.218756",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Tech Giants",
+        "deleted_data": {
+          "name": "Tech Giants",
+          "units": [
+            "Tesla",
+            "Google",
+            "Apple",
+            "Microsoft"
+          ],
+          "description": "Test group: Tech Giants",
+          "color": "#FF6B6B",
+          "created": "2025-11-05T15:30:22.884789",
+          "last_modified": "2025-11-05T15:30:22.884789",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-05T15:34:00.984580",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Auto Manufacturers",
+        "deleted_data": {
+          "name": "Auto Manufacturers",
+          "units": [
+            "General Motors",
+            "Toyota Motor",
+            "Ford Motor",
+            "Volkswagen"
+          ],
+          "description": "Test group: Auto Manufacturers",
+          "color": "#4ECDC4",
+          "created": "2025-11-05T15:30:22.894313",
+          "last_modified": "2025-11-05T15:30:22.894313",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-05T15:34:03.300223",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Chinese Tech",
+        "deleted_data": {
+          "name": "Chinese Tech",
+          "units": [
+            "Xiaomi",
+            "Huawei",
+            "Tencent",
+            "BYD"
+          ],
+          "description": "Test group: Chinese Tech",
+          "color": "#45B7D1",
+          "created": "2025-11-05T15:30:22.905071",
+          "last_modified": "2025-11-05T15:30:22.905071",
+          "usage_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-05T15:34:38.537631",
+      "operation": "import_groups_excel",
+      "details": {
+        "filepath": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/Grupos de empresas.xlsx",
+        "sheet_name": "Hoja1",
+        "imported_count": 5,
+        "total_units": 66,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-12-10T15:48:50.240408",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Autopartes electrónicas",
+        "deleted_data": {
+          "name": "Autopartes electrónicas",
+          "units": [
+            "Actia",
+            "Amphenol",
+            "Aptiv",
+            "Borgwarner",
+            "Denso",
+            "Flextronics",
+            "Lear Corporation",
+            "Magna International",
+            "OPmobility",
+            "Valeo",
+            "ZF"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-11-05T15:34:38.534884",
+          "last_modified": "2025-11-05T15:34:38.534884",
+          "usage_count": 13
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-10T15:48:53.767180",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Autopartes",
+        "deleted_data": {
+          "name": "Autopartes",
+          "units": [
+            "American Axle & Manufacturing",
+            "Autoliv",
+            "Brembo",
+            "CIE Automotive",
+            "Continental"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#4ECDC4",
+          "created": "2025-11-05T15:34:38.534884",
+          "last_modified": "2025-11-05T15:34:38.534884",
+          "usage_count": 13
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-10T15:48:55.656915",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "My/oS electrónicos",
+        "deleted_data": {
+          "name": "My/oS electrónicos",
+          "units": [
+            "Archermind",
+            "Baidu",
+            "CATL",
+            "Delta Electronics",
+            "Eaton",
+            "Fujikura",
+            "Hitachi",
+            "Hon Hai",
+            "Honeywell International",
+            "HUAWEI",
+            "Integer Holding",
+            "Johnson Controls",
+            "Kyocera",
+            "LG Electronics",
+            "Mitsubishi Electric",
+            "Panasonic Holdings",
+            "Pegatron",
+            "Quanta Computer",
+            "Robert Bosch",
+            "Samsung Electronics",
+            "Sanmina SCI Systems",
+            "Schneider Electric",
+            "Sensata Tech",
+            "Sony",
+            "Texas Instruments",
+            "Thales"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#45B7D1",
+          "created": "2025-11-05T15:34:38.534884",
+          "last_modified": "2025-11-05T15:34:38.534884",
+          "usage_count": 9
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-10T15:48:57.898408",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Semiconductores",
+        "deleted_data": {
+          "name": "Semiconductores",
+          "units": [
+            "NXP Semiconductors",
+            "ONSEMI",
+            "Qualcomm",
+            "Renesas",
+            "STMicroelectronics",
+            "Vishay"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FECA57",
+          "created": "2025-11-05T15:34:38.534884",
+          "last_modified": "2025-11-05T15:34:38.534884",
+          "usage_count": 8
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-10T15:49:00.977399",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "OEM",
+        "deleted_data": {
+          "name": "OEM",
+          "units": [
+            "BMW Group",
+            "BYD",
+            "FAW",
+            "Ford Motor",
+            "Geely",
+            "General Motors",
+            "Kia",
+            "Mahindra & Mahindra",
+            "Nissan Motor",
+            "RENAULT",
+            "SAIC",
+            "Stellantis",
+            "Tesla",
+            "Toyota Motor",
+            "Vinfast",
+            "Volkswagen",
+            "Volvo",
+            "XIAOMI"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#96CEB4",
+          "created": "2025-11-05T15:34:38.534884",
+          "last_modified": "2025-11-05T15:34:38.534884",
+          "usage_count": 12
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-10T15:49:12.645263",
+      "operation": "import_groups_excel",
+      "details": {
+        "filepath": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/Grupos de empresas.xlsx",
+        "sheet_name": "Hoja1",
+        "imported_count": 5,
+        "total_units": 78,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2025-12-10T19:28:01.394101",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Autopartes electrónicas",
+        "deleted_data": {
+          "name": "Autopartes electrónicas",
+          "units": [
+            "Actia",
+            "Amphenol",
+            "Aptiv",
+            "Borgwarner",
+            "Denso",
+            "Flextronics",
+            "Lear Corporation",
+            "Magna International",
+            "OPmobility",
+            "Valeo",
+            "ZF",
+            "China Automotive Sys",
+            "Dana Inc",
+            "Nexteer Automotive",
+            "Stabilus"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-12-10T15:49:12.644092",
+          "last_modified": "2025-12-10T15:49:12.644092",
+          "usage_count": 18
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-10T19:28:08.700991",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Autopartes",
+        "deleted_data": {
+          "name": "Autopartes",
+          "units": [
+            "American Axle & Manufacturing",
+            "Autoliv",
+            "Brembo",
+            "CIE Automotive",
+            "Continental",
+            "Superior Industries International",
+            "Cooper-Standard Holdings",
+            "Bridgestone",
+            "Tupy"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#4ECDC4",
+          "created": "2025-12-10T15:49:12.644092",
+          "last_modified": "2025-12-10T15:49:12.644092",
+          "usage_count": 18
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-10T19:28:11.113980",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "OEM",
+        "deleted_data": {
+          "name": "OEM",
+          "units": [
+            "BMW Group",
+            "BYD",
+            "FAW",
+            "Ford Motor",
+            "Geely",
+            "General Motors",
+            "Kia",
+            "Mahindra & Mahindra",
+            "Nissan Motor",
+            "RENAULT",
+            "SAIC",
+            "Stellantis",
+            "Tesla",
+            "Toyota Motor",
+            "Vinfast",
+            "Volkswagen",
+            "Volvo",
+            "XIAOMI"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#96CEB4",
+          "created": "2025-12-10T15:49:12.644092",
+          "last_modified": "2025-12-10T15:49:12.644092",
+          "usage_count": 18
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-10T19:28:13.350069",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "My/oS electrónicos",
+        "deleted_data": {
+          "name": "My/oS electrónicos",
+          "units": [
+            "Archermind",
+            "Baidu",
+            "CATL",
+            "Delta Electronics",
+            "Eaton",
+            "Fujikura",
+            "Hitachi",
+            "Hon Hai",
+            "Honeywell International",
+            "HUAWEI",
+            "Integer Holding",
+            "Johnson Controls",
+            "Kyocera",
+            "LG Electronics",
+            "Mitsubishi Electric",
+            "Panasonic Holdings",
+            "Pegatron",
+            "Quanta Computer",
+            "Robert Bosch",
+            "Samsung Electronics",
+            "Sanmina SCI Systems",
+            "Schneider Electric",
+            "Sensata Tech",
+            "Sony",
+            "Texas Instruments",
+            "Thales",
+            "Tata Elxsi",
+            "Compal Electronics",
+            "Wistron"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#45B7D1",
+          "created": "2025-12-10T15:49:12.644092",
+          "last_modified": "2025-12-10T15:49:12.644092",
+          "usage_count": 18
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-10T19:28:15.243475",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Semiconductores",
+        "deleted_data": {
+          "name": "Semiconductores",
+          "units": [
+            "NXP Semiconductors",
+            "ONSEMI",
+            "Qualcomm",
+            "Renesas",
+            "STMicroelectronics",
+            "Vishay",
+            "Infineon Technologies AG"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FECA57",
+          "created": "2025-12-10T15:49:12.644092",
+          "last_modified": "2025-12-10T15:49:12.644092",
+          "usage_count": 18
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-10T19:28:22.296050",
+      "operation": "import_groups_excel",
+      "details": {
+        "filepath": "C:/Users/messi/OneDrive/Escritorio/escuela/Servicio Social/Python/PCA/Fortun 500/Grupos de empresas.xlsx",
+        "sheet_name": "Hoja1",
+        "imported_count": 5,
+        "total_units": 78,
+        "conflicts": 0
+      }
+    },
+    {
+      "timestamp": "2026-02-14T12:19:58.191424",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Autopartes electrónicas",
+        "deleted_data": {
+          "name": "Autopartes electrónicas",
+          "units": [
+            "Actia",
+            "Amphenol",
+            "Aptiv",
+            "Borgwarner",
+            "Denso",
+            "Flextronics",
+            "Lear Corp.",
+            "Magna Int.",
+            "Opmobility",
+            "Valeo",
+            "ZF",
+            "China Auto. Sys",
+            "Dana Inc",
+            "Nexteer Auto.",
+            "Stabilus"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FF6B6B",
+          "created": "2025-12-10T19:28:22.294074",
+          "last_modified": "2025-12-10T19:28:22.294074",
+          "usage_count": 6
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-14T12:20:00.062219",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Autopartes",
+        "deleted_data": {
+          "name": "Autopartes",
+          "units": [
+            "Amer. Ax. & M.",
+            "Autoliv",
+            "Brembo",
+            "CIE Automotive",
+            "Continental",
+            "Supe. Ind. Int.",
+            "Cooper-St. Hlgd",
+            "Bridgestone",
+            "Tupy"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#4ECDC4",
+          "created": "2025-12-10T19:28:22.294074",
+          "last_modified": "2025-12-10T19:28:22.294074",
+          "usage_count": 6
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-14T12:20:02.101872",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "My/oS electrónicos",
+        "deleted_data": {
+          "name": "My/oS electrónicos",
+          "units": [
+            "Archermind",
+            "Baidu",
+            "CATL",
+            "Delta Elect.",
+            "Eaton",
+            "Fujikura",
+            "Hitachi",
+            "Hon Hai",
+            "Honeywell Int.",
+            "HUAWEI",
+            "Integer Holding",
+            "Johnson Cont.",
+            "Kyocera",
+            "LG Electronics",
+            "Mitsubi. Elect.",
+            "Panasonic Hldg.",
+            "Pegatron",
+            "Quanta Computer",
+            "Robert Bosch",
+            "Samsung Elect.",
+            "Sanmina SCI Sy.",
+            "Schneider Elect",
+            "Sensata Tech",
+            "Sony",
+            "Texas Instr.",
+            "Thales",
+            "Tata Elxsi",
+            "Compal Elect",
+            "Wistron"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#45B7D1",
+          "created": "2025-12-10T19:28:22.294074",
+          "last_modified": "2025-12-10T19:28:22.294074",
+          "usage_count": 6
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-14T12:20:04.173809",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "Semiconductores",
+        "deleted_data": {
+          "name": "Semiconductores",
+          "units": [
+            "NXP Semicond.",
+            "ONSEMI",
+            "Qualcomm",
+            "Renesas",
+            "STMicroelectr.",
+            "Vishay",
+            "Infineon Tech"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#FECA57",
+          "created": "2025-12-10T19:28:22.295051",
+          "last_modified": "2025-12-10T19:28:22.295051",
+          "usage_count": 6
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-14T12:20:06.580245",
+      "operation": "delete_group",
+      "details": {
+        "group_name": "OEM",
+        "deleted_data": {
+          "name": "OEM",
+          "units": [
+            "BMW Group",
+            "BYD",
+            "FAW",
+            "Ford Motor",
+            "Geely",
+            "General Motors",
+            "Kia",
+            "Mahindra & Mah.",
+            "Nissan Motor",
+            "RENAULT",
+            "SAIC",
+            "Stellantis",
+            "Tesla",
+            "Toyota Motor",
+            "Vinfast",
+            "Volkswagen",
+            "Volvo",
+            "XIAOMI"
+          ],
+          "description": "Imported from Excel: Grupos de empresas.xlsx",
+          "color": "#96CEB4",
+          "created": "2025-12-10T19:28:22.294074",
+          "last_modified": "2025-12-10T19:28:22.294074",
+          "usage_count": 6
+        }
+      }
+    }
+  ],
+  "last_updated": "2026-02-14T12:20:06.580245"
+}

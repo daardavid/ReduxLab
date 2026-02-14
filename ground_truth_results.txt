@@ -1,0 +1,20 @@
+Ground Truth PCA Results for test_data.csv
+
+Explained Variance Ratios:
+PC1: 1.000000
+PC2: 0.000000
+PC3: 0.000000
+PC4: 0.000000
+
+Principal Components (rows are PCs, columns are original features):
+PC1: [0.5 0.5 0.5 0.5]
+PC2: [ 0.         -0.57735027  0.78867513 -0.21132487]
+PC3: [ 0.         -0.57735027 -0.21132487  0.78867513]
+PC4: [ 0.8660254  -0.28867513 -0.28867513 -0.28867513]
+
+Transformed Data (first 5 rows):
+[[-3.13339781 -0.         -0.         -0.        ]
+ [-2.43708718 -0.         -0.          0.        ]
+ [-1.74077656  0.         -0.         -0.        ]
+ [-1.04446594 -0.          0.         -0.        ]
+ [-0.34815531 -0.         -0.         -0.        ]]

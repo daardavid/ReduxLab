@@ -1,0 +1,34 @@
+Unit,Group
+Tesla,OEM
+Ford Motor,OEM
+General Motors,OEM
+BMW Group,OEM
+Volkswagen,OEM
+Toyota Motor,OEM
+Nissan Motor,OEM
+Stellantis,OEM
+BYD,OEM
+Geely,OEM
+Aptiv,Autopartes_electronicas
+Denso,Autopartes_electronicas
+Borgwarner,Autopartes_electronicas
+Continental,Autopartes_electronicas
+FORVIA / HELLA / FAURECIA,Autopartes_electronicas
+Flextronics,Autopartes_electronicas
+Amphenol,Autopartes_electronicas
+Huawei,Electronics_Suppliers
+Samsung Electronics,Electronics_Suppliers
+Baidu,Electronics_Suppliers
+Delta Electronics,Electronics_Suppliers
+Hon Hai,Electronics_Suppliers
+Hitachi,Electronics_Suppliers
+Qualcomm,Semiconductores
+NXP Semiconductors,Semiconductores
+Marvell Technology,Semiconductores
+Broadcom,Semiconductores
+MediaTek,Semiconductores
+Infineon Technologies,Semiconductores
+Brembo,Traditional_Autoparts
+Autoliv,Traditional_Autoparts
+American Axle & Manufacturing,Traditional_Autoparts
+CIE Automotive,Traditional_Autoparts
