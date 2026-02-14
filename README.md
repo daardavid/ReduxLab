@@ -32,6 +32,8 @@ Para usar **ReduxLab** sin instalar Python ni dependencias:
    - **ReduxLab-Setup-X.X.X.exe**: instalador. Doble clic, sigue el asistente y listo.
    - **ReduxLab-X.X.X-portable.zip**: versión portable. Descomprime y ejecuta `ReduxLab.exe` dentro de la carpeta.
 
+El instalador y el portable se generan con `build.bat` y la aplicación abre correctamente tras la instalación.
+
 **Requisitos:** Windows 10 o superior, 64 bits.
 
 ## 🚀 Instalación Rápida (desde código fuente)

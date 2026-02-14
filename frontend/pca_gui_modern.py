@@ -1197,7 +1197,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Initialise logging BEFORE anything else
-    from logging_config import setup_application_logging
+    from backend.logging_config import setup_application_logging
 
     setup_application_logging(debug_mode=args.debug)
 
