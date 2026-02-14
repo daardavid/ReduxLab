@@ -68,7 +68,7 @@ datos_demo_*.xlsx
 # Data folders (keep structure but ignore large datasets)
 Programa Socioeconómicos/
 Fortun 500/
-"Proyectos save/"
+Proyectos save/
 
 # Build y salidas (PyInstaller, instalador, portable)
 build/
